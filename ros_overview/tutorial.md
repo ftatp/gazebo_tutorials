@@ -6,7 +6,7 @@
 To achieve ROS integration with stand-alone Gazebo, a set of ROS packages named
 [gazebo\_ros\_pkgs](http://ros.org/wiki/gazebo_ros_pkgs) provides wrappers
 around the stand-alone Gazebo.  They provide the necessary interfaces to
-simulate a robot in Gazebo using ROS messages, services and dynamic reconfigure
+simulate a robot in Gazebo using ROS messages, services and dynamic reconfigure.
 Some features of `gazebo_ros_pkgs`:
 
 - Supports a stand alone system dependency of Gazebo, that has no ROS bindings on its own
